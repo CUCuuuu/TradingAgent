@@ -114,23 +114,8 @@
 - [FAQ](./faq/faq.md) - 常见问题解答
 - [故障排除](./faq/troubleshooting.md) - 问题诊断和解决
 
-### 📋 版本历史
-- [📄 v1.0.1 发布说明](./releases/v1.0.1-release-notes.md) - 配置体验与同步稳定性增强
-- [📄 v0.1.12 发布说明](./releases/v0.1.12-release-notes.md) - 智能新闻分析模块与项目结构优化 ✨
-- [📄 v0.1.12 更新日志](./releases/CHANGELOG_v0.1.12.md) - 详细技术更新记录 ✨
-- [📄 v0.1.11 发布说明](./releases/v0.1.11-release-notes.md) - 多LLM提供商集成与模型选择持久化
-- [📄 v0.1.11 更新日志](./releases/CHANGELOG_v0.1.11.md) - 详细技术更新记录
-- [📄 完整更新日志](./releases/CHANGELOG.md) - 所有版本历史记录
-- [📄 升级指南](./releases/upgrade-guide.md) - 版本升级操作指南
-- [📄 版本对比](./releases/version-comparison.md) - 各版本功能对比
 
-## 贡献指南
 
-如果您想为文档做出贡献，请参考 [贡献指南](../CONTRIBUTING.md)。
 
-## 联系我们
+- **原项目**: [[TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)](https://github.com/hsliuping/TradingAgents-CN)
 
-- **GitHub Issues**: [提交问题和建议](https://github.com/hsliuping/TradingAgents-CN/issues)
-- **邮箱**: hsliup@163.com
-- 项目ＱＱ群：782124367
-- **原项目**: [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)
